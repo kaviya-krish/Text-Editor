@@ -7,7 +7,7 @@ A desktop-based Text Editor developed using Java Swing with useful editing and c
 ## 📸 Project Preview
 
 ### Main Editor Window
-![Editor Screenshot](TextEditor.png)
+![Editor Screenshot](texteditor.png)
 
 ---
 
